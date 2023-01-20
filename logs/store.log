@@ -1,0 +1,19 @@
+ERROR: 2023/01/20 15:17:41 logging.go:93: Error: port not specified
+INFO: 2023/01/20 15:17:46 logging.go:88: Register route:  /store/
+INFO: 2023/01/20 15:17:46 logging.go:88: Register route:  /list/
+INFO: 2023/01/20 15:17:46 logging.go:88: Register route:  /shutdown/
+INFO: 2023/01/20 15:17:46 logging.go:88: Register route:  /ping/
+INFO: 2023/01/20 15:17:46 logging.go:88: Register route:  /login/
+INFO: 2023/01/20 15:17:46 logging.go:88: HTTP Server Listening  :8000
+INFO: 2023/01/20 17:42:09 logging.go:88: Register route:  /store/
+INFO: 2023/01/20 17:42:09 logging.go:88: Register route:  /list/
+INFO: 2023/01/20 17:42:09 logging.go:88: Register route:  /shutdown/
+INFO: 2023/01/20 17:42:09 logging.go:88: Register route:  /ping/
+INFO: 2023/01/20 17:42:09 logging.go:88: Register route:  /login/
+INFO: 2023/01/20 17:42:09 logging.go:88: HTTP Server Listening  :8000
+INFO: 2023/01/20 17:43:52 logging.go:88: Register route:  /store/
+INFO: 2023/01/20 17:43:52 logging.go:88: Register route:  /list/
+INFO: 2023/01/20 17:43:52 logging.go:88: Register route:  /shutdown/
+INFO: 2023/01/20 17:43:52 logging.go:88: Register route:  /ping/
+INFO: 2023/01/20 17:43:52 logging.go:88: Register route:  /login/
+INFO: 2023/01/20 17:43:52 logging.go:88: HTTP Server Listening  :8000
